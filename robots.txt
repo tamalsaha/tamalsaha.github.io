@@ -3,3 +3,4 @@ Disallow: /css
 Disallow: /fonts
 Disallow: /images
 Disallow: /js
+Sitemap: http://www.tamalsaha.com/sitemap.xml
