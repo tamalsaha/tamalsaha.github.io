@@ -6,22 +6,74 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <url>
   <loc>http://www.tamalsaha.com/</loc>
-  <lastmod>2014-03-02T08:33:51+00:00</lastmod>
   <changefreq>monthly</changefreq>
 </url>
 <url>
   <loc>http://www.tamalsaha.com/projects.html</loc>
-  <lastmod>2014-03-02T08:33:51+00:00</lastmod>
   <changefreq>monthly</changefreq>
 </url>
 <url>
   <loc>http://www.tamalsaha.com/resume.html</loc>
-  <lastmod>2014-03-02T08:33:51+00:00</lastmod>
   <changefreq>monthly</changefreq>
 </url>
 <url>
   <loc>http://www.tamalsaha.com/index.html</loc>
-  <lastmod>2014-03-02T08:33:51+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.tamalsaha.com/projects/grad/nanosim.html</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.tamalsaha.com/projects/grad/simon.html</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.tamalsaha.com/projects/grad/fasttiles.html</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.tamalsaha.com/projects/grad/tsp-art.html</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.tamalsaha.com/projects/undergrad/3d-opengl-game.html</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.tamalsaha.com/projects/undergrad/4-8-bit-microprocessor-design.html</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.tamalsaha.com/projects/undergrad/computer-adaptive-test.html</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.tamalsaha.com/projects/undergrad/departmental-store-management-system.html</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.tamalsaha.com/projects/undergrad/network-chess.html</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.tamalsaha.com/projects/undergrad/system-design-and-analysis.html</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.tamalsaha.com/projects/undergrad/taximeter.html</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.tamalsaha.com/projects/freelance/asiatic-accounts-manager.html</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.tamalsaha.com/projects/freelance/patient-management-system.html</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.tamalsaha.com/projects/freelance/rupantor.html</loc>
   <changefreq>monthly</changefreq>
 </url>
 </urlset>
