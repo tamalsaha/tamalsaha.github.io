@@ -125,6 +125,13 @@ body {
   color: rgba(255,255,255,.5);
 }
 
+/*
+ * Internal pages
+ */
+
+.content {
+  text-align: left;
+}
 
 /*
  * Affix and center
